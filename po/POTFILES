@@ -1,0 +1,7 @@
+data/com.otonielreyes.LearningSituationGenerator.desktop.in
+data/com.otonielreyes.LearningSituationGenerator.appdata.xml.in
+data/com.otonielreyes.LearningSituationGenerator.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="learningsituationgenerator">
+	<schema id="com.otonielreyes.LearningSituationGenerator" path="/com/otonielreyes/LearningSituationGenerator/">
+	</schema>
+</schemalist>
